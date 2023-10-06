@@ -1,0 +1,10 @@
+{
+    "inflow": 1,
+    "inflow_solid": 2,
+    "interface": 3,
+    "outflow": 4,
+    "outflow_solid": 5,
+    "outer": 6,
+    "fluid": 1,
+    "solid": 2
+}
