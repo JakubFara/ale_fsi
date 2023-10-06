@@ -1,0 +1,3 @@
+test/results/*
+*.pyc
+*/__pycache__/*
